@@ -8,16 +8,16 @@ The project demonstrates hands-on experience with **joins, aggregations, filteri
 
 ## 🔗 Project Links
 - 🔗 **GitHub Repository:**  
-  https://github.com/<your-username>/sql-music-store-analysis
+  https://github.com/ahutotsh-razz/SQL-Music-Store-Analysis/blob/main/music_player_analys.png
 
 - 📄 **Project Instructions (PDF):**  
-  https://github.com/<your-username>/sql-music-store-analysis/blob/main/SQL%20Project%20instructions.pdf
+  https://github.com/ahutotsh-razz/SQL-Music-Store-Analysis/blob/main/SQL%20Project%20instructions.pdf
 
 - 📊 **Project Overview Slides (PPT):**  
-  https://github.com/<your-username>/sql-music-store-analysis/blob/main/SQL%20Project%20Music%20Store.pptx
+  https://github.com/ahutotsh-razz/SQL-Music-Store-Analysis/blob/main/SQL%20Project%20Music%20Store.pptx
 
 - 🧾 **SQL Queries File:**  
-  https://github.com/<your-username>/sql-music-store-analysis/blob/main/queries.sql
+  https://github.com/ahutotsh-razz/SQL-Music-Store-Analysis/blob/main/music_player_source_file.zip
 
 ---
 

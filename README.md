@@ -83,3 +83,43 @@ CTEs and window functions are used extensively for advanced analysis.
 ---
 
 ## 📂 Project Structure
+sql-music-store-analysis
+│
+├── SQL Project instructions.pdf
+├── SQL Project Music Store.pptx
+├── queries.sql
+├── README.md
+---
+
+## 🚀 How to Run the Project
+1. Import the Music Store database into your SQL environment
+2. Execute queries from `queries.sql`
+3. Run queries level-wise (Easy → Moderate → Advanced)
+4. Review outputs to derive insights
+
+---
+
+## 📊 Key Insights
+- Identification of top customers and high-revenue countries
+- Popular music genres by region
+- Best city for promotional events
+- Artist-wise revenue contribution
+- Country-level customer spending patterns
+
+---
+
+## 👤 Author
+**Ashutosh Jha**  
+Aspiring Data Analyst  
+Skills: SQL | Data Analysis | CTEs | Window Functions | Joins
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/<your-linkedin-username>  
+🔗 **GitHub:** https://github.com/<your-username>
+
+⭐ If you find this project helpful, consider starring the repository.
+
+---
+
+## 📬 Feedback
+Feedback and contributions are welcome.  
+Feel free to fork the repository or raise an issue.
